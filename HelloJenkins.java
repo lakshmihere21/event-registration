@@ -1,5 +1,6 @@
 public class HelloJenkins {
     public static void main(String[] args) {
-        System.out.println("Hello! Jenkins CI/CD is working.");
+        System.out.println("Hello! Jenkins CI is working.");
+        System.out.println("Java program compiled and executed successfully!");
     }
 }
